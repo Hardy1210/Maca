@@ -1,0 +1,165 @@
+{
+  "recipes": [
+    {
+      "id": 4,
+      "slug": "bol-quinoa-oeuf-avocat",
+      "name": "Bol de Quinoa avec Œuf et Avocat",
+      "category": ["Végétarienne"],
+      "description": "Un bol nourrissant et équilibré à base de quinoa, parfait pour un repas rapide et sain.",
+      "creatorId": null,
+      "time": {
+        "prep": 10,
+        "cook": 25,
+        "prepTimeCategory": "moyen"
+      },
+      "calcServings": 1,
+      "calories": 450,
+      "cost": {
+        "label": "bon marché",
+        "currency": "EUR"
+      },
+      "mealPlans": ["plan-1"],
+      "tags": {
+        "dietCompatibility": [],
+        "allergens": ["œufs", "lait (optionnel)"],
+        "seasonalTags": ["toute l'année"],
+        "difficulty": "facile"
+      },
+      "restrictions": {
+        "isVegetarian": true,
+        "isVegan": false,
+        "isLactoseFree": true,
+        "isGlutenFree": true,
+        "isNutFree": true,
+        "isPeanutFree": true,
+        "isSoyFree": true,
+        "isEggFree": false,
+        "isShellfishFree": true,
+        "isFishFree": true,
+        "isLowSugar": true,
+        "isLowSodium": false,
+        "isSeedFree": false,
+        "isCornFree": true,
+        "isLowHistamine": true,
+        "isLowFat": false
+      },
+      "images": [
+        { "url": "/images/recipes/bol-quinoa-1pers.jpg", "type": "main" }
+      ],
+      "equipment": ["casserole", "plaque de cuisson", "bol"],
+      "ingredients": {
+        "pers_1": [
+          {
+            "title": "Base du bol",
+            "items": [
+              { "id": 1, "name": "Quinoa", "quantity": 40, "unit": "g" },
+              { "id": 2, "name": "Patate douce", "quantity": 100, "unit": "g" },
+              { "id": 3, "name": "Œuf", "quantity": 1 },
+              {
+                "id": 4,
+                "name": "Épinards frais",
+                "quantity": 50,
+                "unit": "g"
+              },
+              { "id": 5, "name": "Avocat", "quantity": 0.5 }
+            ]
+          },
+          {
+            "title": "Assaisonnement (optionnel)",
+            "items": [
+              {
+                "id": 6,
+                "name": "Condiment pour bagels",
+                "quantity": 1,
+                "unit": "pincée(s)"
+              },
+              {
+                "id": 7,
+                "name": "Fromage (au choix)",
+                "quantity": 15,
+                "unit": "g"
+              },
+              {
+                "id": 8,
+                "name": "Huile d'olive",
+                "quantity": 0.25,
+                "unit": "c. à soupe"
+              },
+              { "id": 9, "name": "Sel", "quantity": 1, "unit": "pincée(s)" },
+              { "id": 10, "name": "Poivre", "quantity": 1, "unit": "pincée(s)" }
+            ]
+          }
+        ]
+      },
+      "instructions": [
+        {
+          "step": 1,
+          "title": "Cuisson du quinoa",
+          "description": "Dans une petite casserole, portez à ébullition 120 ml d'eau. Ajoutez le quinoa rincé, réduisez le feu, couvrez et laissez cuire 15 à 20 minutes jusqu'à absorption. Retirez du feu et laissez refroidir 5 minutes avant d'égrener avec une fourchette."
+        },
+        {
+          "step": 2,
+          "title": "Cuisson des patates douces",
+          "description": "Préchauffez le four à 220 °C. Coupez la patate douce en petits cubes, mélangez avec l'huile d'olive, le sel et le poivre. Étalez sur une plaque et faites rôtir pendant 20 à 22 minutes, jusqu'à ce qu'elles soient tendres et dorées."
+        },
+        {
+          "step": 3,
+          "title": "Préparation de l'œuf",
+          "description": "Placez l'œuf dans une petite casserole, couvrez d'eau froide, puis portez à ébullition. Une fois l'eau bouillante, éteignez le feu, couvrez et laissez reposer 11 minutes. Plongez l'œuf dans de l'eau glacée, écalez-le et coupez-le en deux."
+        },
+        {
+          "step": 4,
+          "title": "Montage du bol",
+          "description": "Dans un bol, déposez le quinoa en base. Ajoutez les patates douces rôties, les épinards frais, l'œuf dur et la moitié de l'avocat coupé en dés. Assaisonnez avec du sel, du poivre et le condiment pour bagels, si souhaité."
+        },
+        {
+          "step": 5,
+          "title": "Finition",
+          "description": "Ajoutez 15 g de fromage râpé ou émietté si désiré. Servez immédiatement ou emportez dans un récipient hermétique."
+        }
+      ],
+      "alt": "Un bol de quinoa garni de patate douce, œuf dur et avocat, parfait pour une personne.",
+      "recipeHealthScore": {
+        "categories": {
+          "Condiments": true,
+          "Oilseeds": false,
+          "WholeFoods": true,
+          "Vegetables": true,
+          "LowGlycemicIndex": true,
+          "LowSugar": true,
+          "CompleteProtein": true,
+          "Omega3": false,
+          "LowFat": false,
+          "LowSodium": false,
+          "LowHistamine": true,
+          "Legumes": false,
+          "WholeGrains": true
+        },
+        "description": "Ce bol est riche en nutriments essentiels, parfait pour un repas équilibré et complet.",
+        "link": ""
+      },
+      "nutrition": {
+        "per_100g": {
+          "energy": "140 kcal",
+          "protein": "4.5 g",
+          "fat": "6 g",
+          "fiber": "2.5 g",
+          "carbohydrates": "15 g",
+          "saturated_fat": "1.2 g",
+          "sugar": "2 g",
+          "salt": "0.3 g"
+        },
+        "per_portion": {
+          "energy": "450 kcal",
+          "protein": "15 g",
+          "fat": "19 g",
+          "fiber": "6.5 g",
+          "carbohydrates": "50 g",
+          "saturated_fat": "3.5 g",
+          "sugar": "6 g",
+          "salt": "1 g"
+        }
+      }
+    }
+  ]
+}

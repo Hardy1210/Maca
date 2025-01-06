@@ -1,0 +1,947 @@
+[
+  {
+    "id": 1,
+    "name": "Carotte",
+    "category": "Légume",
+    "famille": "Apiacées",
+    "seasonality": ["Printemps", "Été"],
+    "dietCompatibility": ["Vegetarian", "Vegan", "Paleo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": false,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement alcalins",
+      "value": -5.71
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 40,
+        "Glucides": 7.5,
+        "protein": 0.6,
+        "starch": 0.4,
+        "sugarIndex": {
+          "fructose": 0.39,
+          "glucose": 1
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Tomate",
+    "category": "Légume",
+    "famille": "Solanacées",
+    "seasonality": ["Été"],
+    "dietCompatibility": ["Vegetarian", "Vegan", "Paleo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement alcalins",
+      "value": -3.71
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 19,
+        "Glucides": 2.4,
+        "protein": 0.8,
+        "starch": 0,
+        "sugarIndex": {
+          "fructose": 1.4,
+          "glucose": 1.0
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Aubergine",
+    "category": "Légume",
+    "famille": "Solanacées",
+    "seasonality": ["Été"],
+    "dietCompatibility": ["Vegetarian", "Vegan", "Paleo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Modérément alcalins",
+      "value": null
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 21.2,
+        "Glucides": 2.3,
+        "protein": 1.2,
+        "starch": 0,
+        "sugarIndex": {
+          "fructose": 1.12,
+          "glucose": 1.13
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Poivron rouge",
+    "category": "Légume",
+    "famille": "Solanacées",
+    "seasonality": ["Été"],
+    "dietCompatibility": ["Vegetarian", "Vegan", "Paleo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": false,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": null,
+      "value": null
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 36,
+        "Glucides": 5.98,
+        "protein": 1.06,
+        "starch": null,
+        "sugarIndex": {
+          "fructose": 2.6,
+          "glucose": 2.2
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "Poivron vert",
+    "category": "Légume",
+    "famille": "Solanacées",
+    "seasonality": ["Été"],
+    "dietCompatibility": ["Vegetarian", "Vegan", "Paleo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement alcalins",
+      "value": 7.5
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 26,
+        "Glucides": 3.43,
+        "protein": 0.81,
+        "starch": 0.35,
+        "sugarIndex": {
+          "fructose": 1.5,
+          "glucose": 1.5
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "Poivron jaune",
+    "category": "Légume",
+    "famille": "Solanacées",
+    "seasonality": ["Été"],
+    "dietCompatibility": ["Vegetarian", "Vegan", "Paleo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": false,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement alcalins",
+      "value": 7.5
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 30.7,
+        "Glucides": 4.73,
+        "protein": 1.0,
+        "starch": 0.35,
+        "sugarIndex": {
+          "fructose": 2.3,
+          "glucose": 2
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "Pomme de terre",
+    "category": "Légume",
+    "famille": "Solanacées",
+    "seasonality": ["Toute l'année"],
+    "dietCompatibility": ["Vegetarian", "Vegan", "Paleo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": false,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement alcalins",
+      "value": null
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 71.6,
+        "Glucides": 14.9,
+        "protein": 1.8,
+        "starch": 15.4,
+        "sugarIndex": {
+          "fructose": 0.2,
+          "glucose": 0.3
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "Tomate cerise crue",
+    "category": "Légume",
+    "famille": "Solanacées",
+    "seasonality": ["Été"],
+    "dietCompatibility": ["Vegetarian", "Vegan", "Paleo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": false,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement alcalins",
+      "value": null
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 33,
+        "Glucides": 5.62,
+        "protein": 0.8,
+        "starch": null,
+        "sugarIndex": {
+          "fructose": 2.5,
+          "glucose": 2.3
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "Brocoli",
+    "category": "Légume",
+    "famille": "Brassicaceae",
+    "seasonality": ["Automne", "Hiver"],
+    "dietCompatibility": ["Vegetarian", "Vegan", "Paleo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement alcalins",
+      "value": -3.57
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 36,
+        "Glucides": 7,
+        "protein": 3.95,
+        "starch": 0,
+        "sugarIndex": {
+          "fructose": 0.7,
+          "glucose": 0.48
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "Chou-fleur",
+    "category": "Légume",
+    "famille": "Brassicaceae",
+    "seasonality": ["Automne", "Hiver"],
+    "dietCompatibility": ["Vegetarian", "Vegan", "Paleo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": false,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement alcalins",
+      "value": 1.34
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 25,
+        "Glucides": 2.13,
+        "protein": 1.92,
+        "starch": 0.35,
+        "sugarIndex": {
+          "fructose": 0.8,
+          "glucose": 0.9
+        }
+      }
+    }
+  },
+  {
+    "id": 11,
+    "name": "Navet",
+    "category": "Légume",
+    "famille": "Brassicaceae",
+    "seasonality": ["Printemps", "Automne"],
+    "dietCompatibility": ["Vegetarian", "Vegan", "Paleo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": false,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement alcalins",
+      "value": -3.25
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 28,
+        "Glucides": 4.7,
+        "protein": 0.76,
+        "starch": 0.69,
+        "sugarIndex": {
+          "fructose": null,
+          "glucose": null
+        }
+      }
+    }
+  },
+  {
+    "id": 12,
+    "name": "Chou de Bruxelles",
+    "category": "Légume",
+    "famille": "Brassicaceae",
+    "seasonality": ["Automne", "Hiver"],
+    "dietCompatibility": ["Vegetarian", "Vegan", "Paleo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": false,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement alcalins",
+      "value": 4.32
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 43,
+        "Glucides": 8.95,
+        "protein": 3.38,
+        "starch": 1.0,
+        "sugarIndex": {
+          "fructose": 1.2,
+          "glucose": 1.6
+        }
+      }
+    }
+  },
+  {
+    "id": 13,
+    "name": "Chou rouge",
+    "category": "Légume",
+    "famille": "Brassicaceae",
+    "seasonality": ["Automne", "Hiver"],
+    "dietCompatibility": ["Vegetarian", "Vegan", "Paleo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": false,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement alcalins",
+      "value": 4.29
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 31,
+        "Glucides": 7.37,
+        "protein": 1.43,
+        "starch": 0.5,
+        "sugarIndex": {
+          "fructose": 1.5,
+          "glucose": 1.8
+        }
+      }
+    }
+  },
+  {
+    "id": 14,
+    "name": "Radis",
+    "category": "Légume",
+    "famille": "Brassicaceae",
+    "seasonality": ["Printemps", "Été"],
+    "dietCompatibility": ["Vegetarian", "Vegan", "Paleo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement alcalins",
+      "value": 4.4
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 14.5,
+        "Glucides": 1.53,
+        "protein": 0.7,
+        "starch": 0.35,
+        "sugarIndex": {
+          "fructose": 0.4,
+          "glucose": 0.7
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "name": "Céleri",
+    "category": "Légume",
+    "famille": "Apiacées",
+    "seasonality": ["Automne", "Hiver"],
+    "dietCompatibility": ["Vegetarian", "Vegan", "Paleo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement alcalins",
+      "value": -5.04
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 16,
+        "Glucides": 3.0,
+        "protein": 0.7,
+        "starch": 0.1,
+        "sugarIndex": {
+          "fructose": 0.9,
+          "glucose": 0.7
+        }
+      }
+    }
+  },
+  {
+    "id": 16,
+    "name": "Persil",
+    "category": "Herbe",
+    "famille": "Apiacées",
+    "seasonality": ["Toute l'année"],
+    "dietCompatibility": ["Vegetarian", "Vegan", "Paleo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Fortement alcalins",
+      "value": -11.13
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 36,
+        "Glucides": 6.3,
+        "protein": 3.0,
+        "starch": 0.5,
+        "sugarIndex": {
+          "fructose": 0.5,
+          "glucose": 0.8
+        }
+      }
+    }
+  },
+  {
+    "id": 17,
+    "name": "Persil lyophilisé",
+    "category": "Herbe",
+    "famille": "Apiacées",
+    "seasonality": ["Toute l'année"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Fortement alcalins",
+      "value": -108.65
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 271,
+        "Glucides": 42.38,
+        "protein": 31.3,
+        "starch": null,
+        "sugarIndex": {
+          "fructose": null,
+          "glucose": null
+        }
+      }
+    }
+  },
+  {
+    "id": 18,
+    "name": "Courgette",
+    "category": "Légume",
+    "famille": "Cucurbitacées",
+    "seasonality": ["Été", "Automne"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": false,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement alcalins",
+      "value": -4.14
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 16.5,
+        "Glucides": 3.11,
+        "protein": 1.21,
+        "starch": 0.1,
+        "sugarIndex": {
+          "fructose": 0.95,
+          "glucose": 1.7
+        }
+      }
+    }
+  },
+  {
+    "id": 19,
+    "name": "Concombre",
+    "category": "Légume",
+    "famille": "Cucurbitacées",
+    "seasonality": ["Printemps", "Été"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": false,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement alcalins",
+      "value": -2.43
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 12,
+        "Glucides": 3.63,
+        "protein": 0.65,
+        "starch": 0.1,
+        "sugarIndex": {
+          "fructose": 0.87,
+          "glucose": 1.03
+        }
+      }
+    }
+  },
+  {
+    "id": 20,
+    "name": "Potiron",
+    "category": "Légume",
+    "famille": "Cucurbitacées",
+    "seasonality": ["Automne", "Hiver"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": false,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Neutre",
+      "value": 0
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 25,
+        "Glucides": 4.5,
+        "protein": 0.81,
+        "starch": 0.6,
+        "sugarIndex": {
+          "fructose": 1.5,
+          "glucose": 1.6
+        }
+      }
+    }
+  },
+  {
+    "id": 21,
+    "name": "Melon",
+    "category": "Fruit",
+    "famille": "Cucurbitacées",
+    "seasonality": ["Été"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "France",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": false,
+      "isLowSodium": true,
+      "isSeedFree": false,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement alcalins",
+      "value": -5.07
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 34,
+        "Glucides": 8.16,
+        "protein": 0.84,
+        "starch": 0.2,
+        "sugarIndex": {
+          "fructose": 1.9,
+          "glucose": 3.9
+        }
+      }
+    }
+  }
+]

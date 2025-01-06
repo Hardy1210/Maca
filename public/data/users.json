@@ -1,0 +1,75 @@
+{
+  "userId": "user-1",
+  "profile": {
+    "name": {
+      "firstName": "Jean",
+      "lastName": "Dupont"
+    },
+    "email": "jean.dupont@example.com",
+    "age": 35,
+    "gender": "male"
+  },
+  "preferences": {
+    "language": "fr",
+    "notifications": {
+      "email": true,
+      "push": false
+    },
+    "account": {
+      "role": "user",
+      "plan": "free",
+      "createdAt": "2024-12-28T10:00:00Z"
+    },
+    "dietaryRestrictions": {
+      "isLactoseFree": true,
+      "isGlutenFree": false,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": false,
+      "isEggFree": false,
+      "isVegetarian": true,
+      "isVegan": false,
+      "isLowSugar": false,
+      "isLowSodium": false,
+      "isShellfishFree": true,
+      "isFishFree": false,
+      "isSeedFree": false,
+      "isCornFree": false,
+      "isLowHistamine": false
+    }
+  },
+  "dietaryProfile": {
+    "ancestry": "European",
+    "intolerances": ["lactose", "gluten"],
+    "preferences": ["vegetarian", "low sugar"],
+    "recommendations": {
+      "suggestedNutrients": ["high fiber", "low dairy"],
+      "avoids": ["spicy food", "high-fat meals"]
+    }
+  },
+
+  "interactions": {
+    "recentlyViewed": ["recipe-2", "recipe-5"],
+    "favoriteIngredients": ["avocado", "quinoa"],
+    "favoriteRecipes": [
+      {
+        "recipeId": "recipe-1",
+        "name": "Salade César",
+        "addedAt": "2024-12-28T15:00:00Z"
+      },
+      {
+        "recipeId": "recipe-3",
+        "name": "Quinoa Bowl",
+        "addedAt": "2024-12-27T18:30:00Z"
+      }
+    ],
+    "mealPlans": [
+      {
+        "id": "plan-1",
+        "recipes": ["recipe-1", "recipe-3"],
+        "name": "Weekly Vegan Plan",
+        "createdAt": "2024-12-25T08:00:00Z"
+      }
+    ]
+  }
+}

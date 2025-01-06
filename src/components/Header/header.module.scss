@@ -1,0 +1,24 @@
+.header {
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  background-color: #fef7e7;
+}
+.header::after {
+  position: absolute;
+  content: '';
+  background: #ebd985;
+  width: calc(50% + 50%);
+  height: 150%;
+  top: -5%;
+  right: -70%;
+  z-index: -1;
+  transform: rotate(25deg); /* Inclinación de 20 grados */
+}
+
+/* Para pantallas medianas (md: 768px) */
+@media (max-width: 768px) {
+  .header::after {
+    right: -40%;
+  }
+}

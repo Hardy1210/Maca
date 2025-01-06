@@ -1,0 +1,19 @@
+{
+  "recipeImages": [
+    {
+      "recipeId": 1,
+      "images": [
+        {
+          "url": "/images/recipes/salade-cesar1.jpg",
+          "alt": "Une salade César appétissante avec des croûtons et du parmesan.",
+          "type": "main"
+        },
+        {
+          "url": "/images/recipes/salade-cesar2.jpg",
+          "alt": "Zoom sur une salade César garnie de sauce et de croûtons.",
+          "type": "gallery"
+        }
+      ]
+    }
+  ]
+}
