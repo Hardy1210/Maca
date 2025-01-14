@@ -1,3 +1,4 @@
+import Button from '@/components/Buttons/ButtonHeader'
 import { Header } from '@/components/Header/Header'
 import { londrina } from '@/fonts/fonts'
 import { cn } from '@/lib/utils'
@@ -30,7 +31,9 @@ export default function Home() {
               voluptatum, optio assumenda, a pariatur commodi sed veniam quia
               rem magni laborum. Qui.
             </p>
-            <button>button</button>
+            <Button size="medium" variant="primary" href="#">
+              Allons si !
+            </Button>
           </div>
           <div className=" min-w-96">
             <Image

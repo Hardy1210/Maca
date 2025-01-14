@@ -1,0 +1,45 @@
+@use './variables.scss' as vars;
+@mixin button-base {
+  display: inline-block;
+  font-weight: bold;
+  text-align: center;
+  cursor: pointer;
+  border-radius: vars.$border-radius-lg;
+  transition:
+    background-color $transition,
+    opacity $transition;
+  padding: 10px 20px;
+  border: none;
+  text-decoration: none; // Para enlaces
+}
+
+// Media queries breakpoints
+@mixin breakpoint-sm {
+  @media (min-width: $breakpoint-sm) {
+    @content;
+  }
+}
+
+@mixin breakpoint-md {
+  @media (min-width: $breakpoint-md) {
+    @content;
+  }
+}
+
+@mixin breakpoint-lg {
+  @media (min-width: $breakpoint-lg) {
+    @content;
+  }
+}
+
+@mixin breakpoint-xl {
+  @media (min-width: $breakpoint-xl) {
+    @content;
+  }
+}
+
+@mixin breakpoint-2xl {
+  @media (min-width: $breakpoint-2xl) {
+    @content;
+  }
+}
