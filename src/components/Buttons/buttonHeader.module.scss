@@ -1,6 +1,73 @@
 @use '../../app/styles/variables.scss' as vars;
-
+@use '../../app/styles/mixins.scss' as mix;
 // Base del botón
-.buttonClasses {
-  background-color: vars.$color-bright-teal;
+.button {
+  display: inline-block;
+  //background-color: vars.$color-bright-teal;
+  font-weight: bold;
+  text-align: center;
+  cursor: pointer;
+  border-radius: vars.$border-radius-lg;
+  transition:
+    background-color vars.$transition,
+    opacity vars.$transition;
+  border: none;
+  text-decoration: none; // Para enlaces
+
+  &:hover {
+    //opacity: 0.8; // Reduce ligeramente la opacidad al pasar el mouse
+  }
+  &.small {
+    padding: 4px 8px;
+    font-size: 12px;
+  }
+
+  &.medium {
+    padding: 8px 16px;
+    font-size: 14px;
+  }
+  //button principal
+  &.large {
+    padding: 12px 24px;
+    font-size: vars.$font-size-lg;
+    border-radius: vars.$border-radius-3xl;
+    width: 70%;
+    //min-width: 200px;
+    transition:
+      background-color vars.$transition,
+      opacity vars.$transition,
+      box-shadow vars.$transition;
+    &:hover {
+      opacity: 0.8;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+  }
+
+  &.primary {
+    background-color: vars.$color-green;
+    color: #ffffff;
+  }
+
+  &.secondary {
+    background-color: #eaeaea;
+    color: #333333;
+    border: none;
+    transition:
+      background-color vars.$transition,
+      opacity vars.$transition;
+
+    &:hover {
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+  }
+
+  &.outline {
+    background-color: transparent;
+    color: #0070f3;
+    border: 1px solid #0070f3;
+
+    &:hover {
+      background-color: #e6f7ff;
+    }
+  }
 }

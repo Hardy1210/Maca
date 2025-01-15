@@ -1,18 +1,23 @@
 @use './variables.scss' as vars;
-@mixin button-base {
+//nutton mixin just for styles like hover, color, end animation
+//the size ist defined whit the compnent button
+@mixin buttons-home {
   display: inline-block;
+  background-color: vars.$color-bright-teal;
   font-weight: bold;
   text-align: center;
   cursor: pointer;
   border-radius: vars.$border-radius-lg;
   transition:
-    background-color $transition,
-    opacity $transition;
-  padding: 10px 20px;
+    background-color vars.$transition,
+    opacity vars.$transition;
   border: none;
   text-decoration: none; // Para enlaces
+  &:hover {
+    opacity: 0.8; // Reduce ligeramente la opacidad al pasar el mouse
+  }
 }
-
+////////////////////////////
 // Media queries breakpoints
 @mixin breakpoint-sm {
   @media (min-width: $breakpoint-sm) {

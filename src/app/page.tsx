@@ -12,10 +12,10 @@ export default function Home() {
         <div
           className={cn(
             styles.headerMain,
-            'flex flex-row mt-10 px-7 justify-between items-center',
+            'flex flex-col md:flex-row mt-10 px-2 md:px-7 justify-between items-center',
           )}
         >
-          <div className="flex-1 max-w-[50%] pb-10">
+          <div className="flex-1 w-full md:max-w-[50%] pb-10">
             <h1
               className={cn(
                 styles.logoText,
@@ -31,9 +31,11 @@ export default function Home() {
               voluptatum, optio assumenda, a pariatur commodi sed veniam quia
               rem magni laborum. Qui.
             </p>
-            <Button size="medium" variant="primary" href="#">
-              Allons si !
-            </Button>
+            <div className="flex justify-center">
+              <Button size="large" variant="primary" href="#" className="mt-10">
+                Allons si !
+              </Button>
+            </div>
           </div>
           <div className=" min-w-96">
             <Image

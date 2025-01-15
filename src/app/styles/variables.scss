@@ -5,6 +5,16 @@ $color-medium-green: #65a884; // Verde medio
 $color-dark-teal: #3b8882; // Verde oscuro (teal)
 $color-deep-teal: #2e6873; // Teal profundo
 $color-dark-blue: #2f4858; // Azul oscuro
+$background-color: #fef7e7;
+//palette color  second option
+// variables.scss
+
+$color-yellow-light: #ebd985;
+$color-yellow-green: #b7c76d;
+$color-green-light: #80b35e;
+$color-green: #3d9f59;
+$color-green-dark: #008a5a;
+$color-teal-dark: #00735f;
 
 // Palette Colors
 $color-light-aqua: #d1fff4; // Aqua claro
@@ -17,6 +27,21 @@ $color-text-primary: #212529;
 $color-text-secondary: #6c757d;
 $color-background-primary: #ffffff;
 $color-background-secondary: #f8f9fa;
+
+// Font Sizes
+$font-size-xs: 0.75rem; // 12px
+$font-size-sm: 0.875rem; // 14px
+$font-size-base: 1rem; // 16px
+$font-size-lg: 1.125rem; // 18px
+$font-size-xl: 1.25rem; // 20px
+$font-size-2xl: 1.5rem; // 24px
+$font-size-3xl: 1.875rem; // 30px
+$font-size-4xl: 2.25rem; // 36px
+$font-size-5xl: 3rem; // 48px
+$font-size-6xl: 3.75rem; // 60px
+$font-size-7xl: 4.5rem; // 72px
+$font-size-8xl: 6rem; // 96px
+$font-size-9xl: 8rem; // 128px
 
 // Spacing
 $spacing-xs: 4px;
@@ -65,6 +90,6 @@ $gradient-accent: linear-gradient(90deg, #ff5722, #ff784e);
 //border radius cards
 
 //transtiion animation
-$transition: 0.3s ease-in-out;
+$transition: 0.3s ease;
 //$color-hover: darken($color-primary, 10%);
 //$color-active: lighten($color-primary, 10%);
