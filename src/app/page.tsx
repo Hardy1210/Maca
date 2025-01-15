@@ -12,7 +12,7 @@ export default function Home() {
         <div
           className={cn(
             styles.headerMain,
-            'flex flex-col md:flex-row mt-10 px-2 md:px-7 justify-between items-center',
+            'flex flex-col md:flex-row mt-10 px-4 md:px-7 justify-between items-center',
           )}
         >
           <div className="flex-1 w-full md:max-w-[50%] pb-10">
