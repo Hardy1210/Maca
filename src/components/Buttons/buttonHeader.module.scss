@@ -28,6 +28,7 @@
   }
   //button principal
   &.large {
+    position: relative;
     padding: 12px 24px;
     font-size: vars.$font-size-lg;
     border-radius: vars.$border-radius-3xl;
@@ -37,8 +38,23 @@
       background-color vars.$transition,
       opacity vars.$transition,
       box-shadow vars.$transition;
+    &::after {
+      content: ''; // Obligatorio para mostrar el pseudo-elemento
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: #ffffff;
+      opacity: 0; // Invisible por defecto
+      border-radius: inherit; // Para coincidir con el borde del elemento
+      pointer-events: none; // Evita interferencias con el hover
+      transition: opacity vars.$transition;
+    }
     &:hover {
-      opacity: 0.8;
+      &::after {
+        opacity: 0.1; // Se hace visible
+      }
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     }
     @include mixins.breakpoint-sm {

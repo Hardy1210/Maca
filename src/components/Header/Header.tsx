@@ -7,7 +7,7 @@ import styles from './header.module.scss'
 
 export const Header = (props: PropsWithChildren<{ className?: string }>) => {
   return (
-    <header className={cn(styles.header, 'max-w-[90rem]  m-auto h-screen ')}>
+    <header className={cn(styles.header, 'max-w-[90rem]  m-auto  ')}>
       <NavBar className="z-[2]"></NavBar>
       {props.children}
     </header>

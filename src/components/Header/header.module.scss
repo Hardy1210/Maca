@@ -10,9 +10,9 @@
   content: '';
   background: vars.$color-yellow;
   width: calc(50% + 50%);
-  height: 150%;
+  height: 160%;
   top: -5%;
-  right: -70%;
+  right: -65%;
   z-index: -1;
   transform: rotate(25deg); /* Inclinación de 20 grados */
 }
@@ -20,6 +20,6 @@
 /* Para pantallas medianas (md: 768px) */
 @media (max-width: 768px) {
   .header::after {
-    right: -40%;
+    right: -45%;
   }
 }
