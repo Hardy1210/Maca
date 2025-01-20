@@ -2,7 +2,7 @@
 import { cn } from '@/lib/utils'
 import { PropsWithChildren } from 'react'
 
-import NavBar from '../NavBar/NavBar'
+import NavBar from '../../NavBar/NavBar'
 import styles from './header.module.scss'
 
 export const Header = (props: PropsWithChildren<{ className?: string }>) => {

@@ -1,5 +1,5 @@
-import Button from '@/components/Buttons/ButtonHeader'
-import { Header } from '@/components/Header/Header'
+import { Header } from '@/components/sections/Header/Header'
+import Button from '@/components/ui/Buttons/button_generic/ButtonHeader'
 import { londrina } from '@/fonts/fonts'
 import { cn } from '@/lib/utils'
 import Image from 'next/image'
@@ -17,7 +17,7 @@ export default function Home() {
             height={1200}
           />
         </div>
-        <div className={cn(styles.details, 'absolute right-[10%]')}>
+        <div className={cn(styles.details, 'absolute right-[10%] top-16')}>
           <Image
             src="/images/others/menta.webp"
             alt="A leaft"
@@ -58,7 +58,12 @@ export default function Home() {
               rem magni laborum. Qui.
             </p>
             <div className="flex justify-center md:justify-start">
-              <Button size="large" variant="primary" href="#" className="mt-10">
+              <Button
+                size="large"
+                variant="primary"
+                href="/generate"
+                className="mt-10"
+              >
                 Allons si !
               </Button>
             </div>

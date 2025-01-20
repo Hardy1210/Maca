@@ -5,7 +5,7 @@ import { cn } from '@/lib/utils'
 import Hamburger from 'hamburger-react'
 import Image from 'next/image'
 import { useEffect, useRef, useState } from 'react'
-import { RecipeIcon } from '../Icons/RecipeIcon'
+import { RecipeIcon } from '../ui/icons/RecipeIcon'
 import styles from './navBar.module.scss'
 
 interface NavBarProps {

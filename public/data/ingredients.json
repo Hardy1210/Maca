@@ -943,5 +943,815 @@
         }
       }
     }
+  },
+  {
+    "id": 22,
+    "name": "Coriandre",
+    "category": "Herbe aromatique",
+    "famille": "Apiacées",
+    "seasonality": ["Printemps", "Été", "Automne"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "Méditerranée",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": false,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement alcalin",
+      "value": 7.5
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 22.3,
+        "Glucides": 0.87,
+        "protein": 2.13,
+        "starch": 0,
+        "sugarIndex": {
+          "fructose": 0.87,
+          "glucose": 0.87
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "name": "Fenouil",
+    "category": "Légume",
+    "famille": "Apiacées",
+    "seasonality": ["Été", "Automne"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "Méditerranée",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": false,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement alcalin",
+      "value": 7.0
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 21.2,
+        "Glucides": 3.01,
+        "protein": 0.9,
+        "starch": 0.1,
+        "sugarIndex": {
+          "fructose": 1.7,
+          "glucose": 1.7
+        }
+      }
+    }
+  },
+  {
+    "id": 24,
+    "name": "Anis",
+    "category": "Épice",
+    "famille": "Apiacées",
+    "seasonality": ["Été"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "Méditerranée",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": false,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement alcalin",
+      "value": 7.3
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 337,
+        "Glucides": 50.02,
+        "protein": 17.6,
+        "starch": 0,
+        "sugarIndex": {
+          "fructose": 0,
+          "glucose": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 25,
+    "name": "Aneth",
+    "category": "Herbe aromatique",
+    "famille": "Apiacées",
+    "seasonality": ["Printemps", "Été"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "Asie de l'Ouest",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": false,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement alcalin",
+      "value": 7.2
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 43,
+        "Glucides": 7,
+        "protein": 3.5,
+        "starch": 0,
+        "sugarIndex": {
+          "fructose": 0,
+          "glucose": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 26,
+    "name": "Noix de coco",
+    "category": "Fruit",
+    "famille": "Arecaceae",
+    "seasonality": ["Toute l'année"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "Asie du Sud-Est",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Neutre",
+      "value": 7.0
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 230,
+        "Glucides": 3.3,
+        "protein": 2.3,
+        "starch": 0,
+        "sugarIndex": {
+          "fructose": 1,
+          "glucose": 1
+        }
+      }
+    }
+  },
+  {
+    "id": 27,
+    "name": "Épinard",
+    "category": "Légume",
+    "famille": "Amaranthacées",
+    "seasonality": ["Printemps", "Automne"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "Asie centrale",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement acide à neutre",
+      "value": 5.5
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 28,
+        "Glucides": 2.25,
+        "protein": 2.62,
+        "starch": 1.93,
+        "sugarIndex": {
+          "fructose": 0.32,
+          "glucose": 0.32
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "name": "Betterave",
+    "category": "Légume",
+    "famille": "Amaranthacées",
+    "seasonality": ["Automne", "Hiver"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "Europe",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": false,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": false,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement acide",
+      "value": 5.3
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 43,
+        "Glucides": 9.56,
+        "protein": 1.61,
+        "starch": 0.2,
+        "sugarIndex": {
+          "fructose": 7.96,
+          "glucose": 7.96
+        }
+      }
+    }
+  },
+  {
+    "id": 29,
+    "name": "Poireau",
+    "category": "Légume",
+    "famille": "Amaryllidacées",
+    "seasonality": ["Automne", "Hiver"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "Méditerranée",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement acide",
+      "value": 5.8
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 61,
+        "Glucides": 14.15,
+        "protein": 1.5,
+        "starch": 0.2,
+        "sugarIndex": {
+          "fructose": 3.1,
+          "glucose": 3.1
+        }
+      }
+    }
+  },
+  {
+    "id": 30,
+    "name": "Oignon",
+    "category": "Légume",
+    "famille": "Amaryllidacées",
+    "seasonality": ["Été", "Automne"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "Asie centrale",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": false,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": false,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement acide",
+      "value": 5.5
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 40,
+        "Glucides": 9.34,
+        "protein": 1.1,
+        "starch": 0.1,
+        "sugarIndex": {
+          "fructose": 4.24,
+          "glucose": 4.24
+        }
+      }
+    }
+  },
+  {
+    "id": 31,
+    "name": "Chou",
+    "category": "Légume",
+    "famille": "Brassicacées",
+    "seasonality": ["Automne", "Hiver"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "Europe",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement acide",
+      "value": 5.5
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 25,
+        "Glucides": 5.8,
+        "protein": 1.28,
+        "starch": 0,
+        "sugarIndex": {
+          "fructose": 0,
+          "glucose": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 32,
+    "name": "Avocat",
+    "category": "Fruit",
+    "famille": "Lauracées",
+    "seasonality": ["Toute l'année"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "Mexique",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": false,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement acide",
+      "value": 6.3
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 205,
+        "Glucides": 0.83,
+        "protein": 1.56,
+        "starch": 0.35,
+        "sugarIndex": {
+          "fructose": 0.4,
+          "glucose": 0.4
+        }
+      }
+    }
+  },
+  {
+    "id": 33,
+    "name": "Pomme",
+    "category": "Fruit",
+    "famille": "Rosacées",
+    "seasonality": ["Automne"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "Asie centrale",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": false,
+      "isLowSodium": true,
+      "isSeedFree": false,
+      "isCornFree": true,
+      "isLowStarch": false,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement acide",
+      "value": 4.0
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 52,
+        "Glucides": 13.81,
+        "protein": 0.26,
+        "starch": 0,
+        "sugarIndex": {
+          "fructose": 5.9,
+          "glucose": 2.4
+        }
+      }
+    }
+  },
+  {
+    "id": 34,
+    "name": "Raisin",
+    "category": "Fruit",
+    "famille": "Vitacées",
+    "seasonality": ["Été", "Automne"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "Moyen-Orient",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": false,
+      "isLowSodium": true,
+      "isSeedFree": false,
+      "isCornFree": true,
+      "isLowStarch": false,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Neutre",
+      "value": 6.5
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 69,
+        "Glucides": 15.48,
+        "protein": 0.72,
+        "starch": 0,
+        "sugarIndex": {
+          "fructose": 8.1,
+          "glucose": 7.2
+        }
+      }
+    }
+  },
+  {
+    "id": 35,
+    "name": "Myrtille",
+    "category": "Fruit",
+    "famille": "Éricacées",
+    "seasonality": ["Été"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "Hémisphère Nord",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement acide",
+      "value": 3.5
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 57,
+        "Glucides": 14.49,
+        "protein": 0.74,
+        "starch": 0,
+        "sugarIndex": {
+          "fructose": 7.4,
+          "glucose": 7.1
+        }
+      }
+    }
+  },
+  {
+    "id": 36,
+    "name": "Gingembre",
+    "category": "Épice",
+    "famille": "Zingibéracées",
+    "seasonality": ["Toute l'année"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "Asie du Sud-Est",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": false,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement acide",
+      "value": 5.6
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 80,
+        "Glucides": 17.77,
+        "protein": 1.82,
+        "starch": 0,
+        "sugarIndex": {
+          "fructose": 0,
+          "glucose": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 37,
+    "name": "Citron",
+    "category": "Fruit",
+    "famille": "Rutacées",
+    "seasonality": ["Hiver", "Printemps"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "Asie",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Acide",
+      "value": 2.0
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 34.3,
+        "Glucides": 2.45,
+        "protein": 0.8,
+        "starch": 0,
+        "sugarIndex": {
+          "fructose": 0,
+          "glucose": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 38,
+    "name": "Tomate",
+    "category": "Fruit",
+    "famille": "Solanacées",
+    "seasonality": ["Été"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "Amérique du Sud",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": true,
+      "isLowSodium": true,
+      "isSeedFree": false,
+      "isCornFree": true,
+      "isLowStarch": true,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement acide",
+      "value": 4.5
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 16.4,
+        "Glucides": 1.72,
+        "protein": 0.8,
+        "starch": 0,
+        "sugarIndex": {
+          "fructose": 0,
+          "glucose": 0
+        }
+      }
+    }
+  },
+  {
+    "id": 39,
+    "name": "Patate douce",
+    "category": "Légume",
+    "famille": "Convolvulacées",
+    "seasonality": ["Automne"],
+    "dietCompatibility": ["Végétarien", "Vegan", "Paléo"],
+    "origin": "Amérique du Sud",
+    "unit": "g",
+    "restrictions": {
+      "isVegetarian": true,
+      "isVegan": true,
+      "isLactoseFree": true,
+      "isGlutenFree": true,
+      "isNutFree": true,
+      "isPeanutFree": true,
+      "isSoyFree": true,
+      "isEggFree": true,
+      "isShellfishFree": true,
+      "isFishFree": true,
+      "isLowSugar": false,
+      "isLowSodium": true,
+      "isSeedFree": true,
+      "isCornFree": true,
+      "isLowStarch": false,
+      "isLowHistamine": null
+    },
+    "allergens": [],
+    "phInfo": {
+      "category": "Légèrement acide",
+      "value": 5.5
+    },
+    "nutrition": {
+      "nutritionPer100g": {
+        "calories": 62,
+        "Glucides": 12.2,
+        "protein": 1.69,
+        "starch": 0,
+        "sugarIndex": {
+          "fructose": 0,
+          "glucose": 0
+        }
+      }
+    }
   }
 ]

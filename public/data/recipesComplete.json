@@ -197,6 +197,1130 @@
           "salt": "1 g"
         }
       }
+    },
+    {
+      "recipes": [
+        {
+          "id": 5,
+          "slug": "salade-poulet-grille",
+          "name": "Salade de Poulet Grillé",
+          "category": [
+            "Riche en protéines",
+            "Faible en glucides",
+            "Équilibré",
+            "Sans gluten"
+          ],
+          "description": "Une salade légère et savoureuse avec du poulet grillé et une vinaigrette maison.",
+          "creatorId": null,
+          "difficulty": "facile",
+          "cost": {
+            "label": ["Bon marché", "Moyen"],
+            "currency": "EUR"
+          },
+          "time": {
+            "prep": 15,
+            "cook": 20,
+            "prepTimeCategory": ["Court", "Moyen"]
+          },
+          "calories": 350,
+          "mealPlans": ["Fitness", "Bien-être"],
+          "tags": {
+            "dietCompatibility": [],
+            "allergens": ["Œufs", "Moutarde"],
+            "seasonalTags": ["Toute l'année"]
+          },
+          "restrictions": {
+            "isVegetarian": false,
+            "isVegan": false,
+            "isLactoseFree": true,
+            "isGlutenFree": true,
+            "isNutFree": true,
+            "isPeanutFree": true,
+            "isSoyFree": true,
+            "isEggFree": false,
+            "isShellfishFree": true,
+            "isFishFree": true,
+            "isLowSugar": true,
+            "isLowSodium": false,
+            "isSeedFree": false,
+            "isCornFree": true,
+            "isLowHistamine": false,
+            "isLowFat": true
+          },
+          "images": [
+            {
+              "url": "/images/recipes/salade-poulet-grille.jpg",
+              "type": "main"
+            }
+          ],
+          "equipment": ["Poêle", "Bol", "Planche à découper", "Couteau"],
+          "calcServings": 1,
+          "ingredients": [
+            {
+              "title": "Base de la salade",
+              "items": [
+                {
+                  "id": 11,
+                  "name": "Poulet grillé",
+                  "quantity": 150,
+                  "unit": "g"
+                },
+                { "id": 12, "name": "Laitue", "quantity": 80, "unit": "g" },
+                {
+                  "id": 13,
+                  "name": "Tomates cerises",
+                  "quantity": 100,
+                  "unit": "g"
+                },
+                { "id": 14, "name": "Concombre", "quantity": 50, "unit": "g" },
+                {
+                  "id": 15,
+                  "name": "Oignon rouge",
+                  "quantity": 30,
+                  "unit": "g"
+                }
+              ]
+            },
+            {
+              "title": "Assaisonnement",
+              "items": [
+                {
+                  "id": 16,
+                  "name": "Huile d'olive",
+                  "quantity": 0.5,
+                  "unit": "c. à soupe"
+                },
+                {
+                  "id": 17,
+                  "name": "Jus de citron",
+                  "quantity": 1,
+                  "unit": "c. à soupe"
+                },
+                {
+                  "id": 18,
+                  "name": "Moutarde de Dijon",
+                  "quantity": 1,
+                  "unit": "c. à café"
+                },
+                { "id": 19, "name": "Sel", "quantity": 1, "unit": "pincée(s)" },
+                {
+                  "id": 20,
+                  "name": "Poivre noir",
+                  "quantity": 1,
+                  "unit": "pincée(s)"
+                }
+              ]
+            }
+          ],
+          "instructions": [
+            {
+              "step": 1,
+              "title": "Préparation du poulet",
+              "description": "Assaisonnez le poulet avec du sel et du poivre. Faites-le griller dans une poêle chaude avec un filet d'huile d'olive jusqu'à ce qu'il soit bien doré et cuit à cœur. Coupez-le en lamelles."
+            },
+            {
+              "step": 2,
+              "title": "Préparation des légumes",
+              "description": "Lavez et coupez la laitue, les tomates cerises, le concombre et l'oignon rouge en tranches fines."
+            },
+            {
+              "step": 3,
+              "title": "Préparation de la vinaigrette",
+              "description": "Dans un petit bol, mélangez l'huile d'olive, le jus de citron et la moutarde. Ajoutez une pincée de sel et de poivre, puis fouettez bien."
+            },
+            {
+              "step": 4,
+              "title": "Assemblage de la salade",
+              "description": "Dans un bol, mélangez les légumes avec la vinaigrette. Ajoutez les lamelles de poulet grillé par-dessus."
+            },
+            {
+              "step": 5,
+              "title": "Finition",
+              "description": "Servez immédiatement ou conservez au frais jusqu'au moment de déguster."
+            }
+          ],
+          "alt": "Salade fraîche avec poulet grillé, légumes et vinaigrette maison.",
+          "recipeHealthScore": {
+            "categories": {
+              "Condiments": true,
+              "Oilseeds": false,
+              "WholeFoods": true,
+              "Vegetables": true,
+              "LowGlycemicIndex": true,
+              "LowSugar": true,
+              "CompleteProtein": true,
+              "Omega3": false,
+              "LowFat": true,
+              "LowSodium": false,
+              "LowHistamine": false,
+              "Legumes": false,
+              "WholeGrains": false
+            },
+            "description": "Une salade équilibrée et riche en protéines, parfaite pour un déjeuner léger.",
+            "link": ""
+          },
+          "nutrition": {
+            "per_100g": {
+              "energy": "120 kcal",
+              "protein": "10 g",
+              "fat": "5 g",
+              "fiber": "1.5 g",
+              "carbohydrates": "5 g",
+              "saturated_fat": "0.8 g",
+              "sugar": "2 g",
+              "salt": "0.3 g"
+            },
+            "per_portion": {
+              "energy": "350 kcal",
+              "protein": "30 g",
+              "fat": "15 g",
+              "fiber": "5 g",
+              "carbohydrates": "15 g",
+              "saturated_fat": "2.5 g",
+              "sugar": "6 g",
+              "salt": "1 g"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "pasta-legumes-sauce-tomate",
+      "name": "Pâtes aux Légumes et Sauce Tomate",
+      "category": ["Végétarien", "Équilibré", "Riche en fibres"],
+      "description": "Un plat savoureux et facile à préparer, parfait pour les amateurs de pâtes et de légumes.",
+      "creatorId": null,
+      "difficulty": "facile",
+      "cost": {
+        "label": ["Bon marché"],
+        "currency": "EUR"
+      },
+      "time": {
+        "prep": 10,
+        "cook": 25,
+        "prepTimeCategory": ["Court", "Moyen"]
+      },
+      "calories": 400,
+      "mealPlans": ["Bien-être", "Performance"],
+      "tags": {
+        "dietCompatibility": [],
+        "allergens": ["Gluten"],
+        "seasonalTags": ["Toute l'année"]
+      },
+      "restrictions": {
+        "isVegetarian": true,
+        "isVegan": false,
+        "isLactoseFree": true,
+        "isGlutenFree": false,
+        "isNutFree": true,
+        "isPeanutFree": true,
+        "isSoyFree": true,
+        "isEggFree": true,
+        "isShellfishFree": true,
+        "isFishFree": true,
+        "isLowSugar": true,
+        "isLowSodium": false,
+        "isSeedFree": true,
+        "isCornFree": true,
+        "isLowHistamine": true,
+        "isLowFat": false
+      },
+      "images": [
+        { "url": "/images/recipes/pasta-legumes.jpg", "type": "main" }
+      ],
+      "equipment": ["Casserole", "Poêle", "Passoire", "Couteau"],
+      "calcServings": 1,
+      "ingredients": [
+        {
+          "title": "Ingrédients principaux",
+          "items": [
+            { "id": 1, "name": "Pâtes complètes", "quantity": 80, "unit": "g" },
+            { "id": 2, "name": "Courgette", "quantity": 100, "unit": "g" },
+            { "id": 3, "name": "Carotte", "quantity": 80, "unit": "g" },
+            { "id": 4, "name": "Tomate en dés", "quantity": 150, "unit": "g" },
+            { "id": 5, "name": "Oignon", "quantity": 50, "unit": "g" }
+          ]
+        },
+        {
+          "title": "Assaisonnement",
+          "items": [
+            { "id": 6, "name": "Ail", "quantity": 1, "unit": "gousse(s)" },
+            {
+              "id": 7,
+              "name": "Huile d'olive",
+              "quantity": 1,
+              "unit": "c. à soupe"
+            },
+            {
+              "id": 8,
+              "name": "Basilic séché",
+              "quantity": 1,
+              "unit": "c. à café"
+            },
+            { "id": 9, "name": "Sel", "quantity": 1, "unit": "pincée(s)" },
+            { "id": 10, "name": "Poivre", "quantity": 1, "unit": "pincée(s)" }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "title": "Cuisson des pâtes",
+          "description": "Faites cuire les pâtes dans une casserole d'eau bouillante salée selon les instructions du paquet. Égouttez et réservez."
+        },
+        {
+          "step": 2,
+          "title": "Préparation des légumes",
+          "description": "Coupez la courgette, la carotte et l'oignon en petits morceaux. Écrasez l'ail."
+        },
+        {
+          "step": 3,
+          "title": "Cuisson des légumes",
+          "description": "Faites chauffer l'huile d'olive dans une poêle. Faites revenir l'oignon et l'ail, puis ajoutez les carottes et les courgettes. Faites cuire jusqu'à ce qu'ils soient tendres."
+        },
+        {
+          "step": 4,
+          "title": "Préparation de la sauce",
+          "description": "Ajoutez les tomates en dés dans la poêle avec les légumes. Assaisonnez avec du sel, du poivre et du basilic. Laissez mijoter pendant 10 minutes."
+        },
+        {
+          "step": 5,
+          "title": "Assemblage",
+          "description": "Ajoutez les pâtes cuites dans la poêle et mélangez bien pour enrober les pâtes de sauce. Servez chaud."
+        }
+      ],
+      "alt": "Un plat de pâtes complet avec légumes et sauce tomate.",
+      "recipeHealthScore": {
+        "categories": {
+          "Condiments": true,
+          "Oilseeds": false,
+          "WholeFoods": true,
+          "Vegetables": true,
+          "LowGlycemicIndex": true,
+          "LowSugar": true,
+          "CompleteProtein": false,
+          "Omega3": false,
+          "LowFat": false,
+          "LowSodium": false,
+          "LowHistamine": true,
+          "Legumes": false,
+          "WholeGrains": true
+        },
+        "description": "Un repas équilibré et riche en fibres, parfait pour une alimentation saine.",
+        "link": ""
+      },
+      "nutrition": {
+        "per_100g": {
+          "energy": "150 kcal",
+          "protein": "5 g",
+          "fat": "3 g",
+          "fiber": "3 g",
+          "carbohydrates": "25 g",
+          "saturated_fat": "0.5 g",
+          "sugar": "3 g",
+          "salt": "0.2 g"
+        },
+        "per_portion": {
+          "energy": "400 kcal",
+          "protein": "13 g",
+          "fat": "8 g",
+          "fiber": "8 g",
+          "carbohydrates": "68 g",
+          "saturated_fat": "1.5 g",
+          "sugar": "8 g",
+          "salt": "0.8 g"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "slug": "wrap-poulet-avocat",
+      "name": "Wrap de Poulet et Avocat",
+      "category": ["Rapide", "Équilibré", "Riche en protéines"],
+      "description": "Un wrap facile et rapide à préparer, idéal pour un déjeuner sur le pouce.",
+      "creatorId": null,
+      "difficulty": "facile",
+      "cost": {
+        "label": ["Bon marché"],
+        "currency": "EUR"
+      },
+      "time": {
+        "prep": 10,
+        "cook": 5,
+        "prepTimeCategory": ["Court"]
+      },
+      "calories": 300,
+      "mealPlans": ["Fitness", "Bien-être"],
+      "tags": {
+        "dietCompatibility": [],
+        "allergens": ["Gluten"],
+        "seasonalTags": ["Toute l'année"]
+      },
+      "restrictions": {
+        "isVegetarian": false,
+        "isVegan": false,
+        "isLactoseFree": true,
+        "isGlutenFree": false,
+        "isNutFree": true,
+        "isPeanutFree": true,
+        "isSoyFree": true,
+        "isEggFree": true,
+        "isShellfishFree": true,
+        "isFishFree": true,
+        "isLowSugar": true,
+        "isLowSodium": true,
+        "isSeedFree": true,
+        "isCornFree": true,
+        "isLowHistamine": true,
+        "isLowFat": false
+      },
+      "images": [
+        { "url": "/images/recipes/wrap-poulet-avocat.jpg", "type": "main" }
+      ],
+      "equipment": ["Poêle", "Bol", "Couteau", "Planche à découper"],
+      "calcServings": 1,
+      "ingredients": [
+        {
+          "title": "Ingrédients principaux",
+          "items": [
+            { "id": 1, "name": "Tortilla de blé", "quantity": 1 },
+            { "id": 2, "name": "Poulet grillé", "quantity": 100, "unit": "g" },
+            { "id": 3, "name": "Avocat", "quantity": 0.5 },
+            { "id": 4, "name": "Laitue", "quantity": 30, "unit": "g" },
+            { "id": 5, "name": "Tomates cerises", "quantity": 50, "unit": "g" }
+          ]
+        },
+        {
+          "title": "Assaisonnement",
+          "items": [
+            {
+              "id": 6,
+              "name": "Crème de yaourt",
+              "quantity": 1,
+              "unit": "c. à soupe"
+            },
+            {
+              "id": 7,
+              "name": "Jus de citron",
+              "quantity": 0.5,
+              "unit": "c. à soupe"
+            },
+            { "id": 8, "name": "Sel", "quantity": 1, "unit": "pincée(s)" },
+            { "id": 9, "name": "Poivre", "quantity": 1, "unit": "pincée(s)" }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "title": "Préparation du poulet",
+          "description": "Faites griller le poulet dans une poêle chaude jusqu'à ce qu'il soit bien doré. Coupez-le en fines lamelles."
+        },
+        {
+          "step": 2,
+          "title": "Préparation des légumes",
+          "description": "Lavez la laitue et les tomates cerises. Coupez les tomates en deux. Épluchez et tranchez finement l'avocat."
+        },
+        {
+          "step": 3,
+          "title": "Assemblage du wrap",
+          "description": "Étalez la crème de yaourt sur la tortilla. Ajoutez les morceaux de poulet, l'avocat, la laitue et les tomates cerises. Assaisonnez avec le sel, le poivre et un filet de jus de citron."
+        },
+        {
+          "step": 4,
+          "title": "Roulage du wrap",
+          "description": "Roulez fermement la tortilla pour former un wrap. Coupez-le en deux si désiré."
+        },
+        {
+          "step": 5,
+          "title": "Servir",
+          "description": "Servez immédiatement ou emballez le wrap dans du papier aluminium pour un déjeuner à emporter."
+        }
+      ],
+      "alt": "Un wrap garni de poulet grillé, avocat et légumes frais, parfait pour un repas léger.",
+      "recipeHealthScore": {
+        "categories": {
+          "Condiments": true,
+          "Oilseeds": false,
+          "WholeFoods": true,
+          "Vegetables": true,
+          "LowGlycemicIndex": true,
+          "LowSugar": true,
+          "CompleteProtein": true,
+          "Omega3": false,
+          "LowFat": false,
+          "LowSodium": true,
+          "LowHistamine": true,
+          "Legumes": false,
+          "WholeGrains": false
+        },
+        "description": "Un wrap riche en protéines et en légumes, parfait pour un repas équilibré.",
+        "link": ""
+      },
+      "nutrition": {
+        "per_100g": {
+          "energy": "140 kcal",
+          "protein": "10 g",
+          "fat": "5 g",
+          "fiber": "2 g",
+          "carbohydrates": "15 g",
+          "saturated_fat": "1 g",
+          "sugar": "2 g",
+          "salt": "0.2 g"
+        },
+        "per_portion": {
+          "energy": "300 kcal",
+          "protein": "21 g",
+          "fat": "9 g",
+          "fiber": "5 g",
+          "carbohydrates": "35 g",
+          "saturated_fat": "2.5 g",
+          "sugar": "4 g",
+          "salt": "0.5 g"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "slug": "riz-aux-legumes-et-tofu",
+      "name": "Riz aux Légumes et Tofu",
+      "category": [
+        "Végétarien",
+        "Végétalien",
+        "Équilibré",
+        "Riche en protéines"
+      ],
+      "description": "Un plat simple et savoureux à base de riz, légumes et tofu sauté, parfait pour un repas équilibré.",
+      "creatorId": null,
+      "difficulty": "facile",
+      "cost": {
+        "label": ["Bon marché"],
+        "currency": "EUR"
+      },
+      "time": {
+        "prep": 10,
+        "cook": 20,
+        "prepTimeCategory": ["Court", "Moyen"]
+      },
+      "calories": 380,
+      "mealPlans": ["Fitness", "Bien-être"],
+      "tags": {
+        "dietCompatibility": [],
+        "allergens": ["Soja"],
+        "seasonalTags": ["Toute l'année"]
+      },
+      "restrictions": {
+        "isVegetarian": true,
+        "isVegan": true,
+        "isLactoseFree": true,
+        "isGlutenFree": true,
+        "isNutFree": true,
+        "isPeanutFree": true,
+        "isSoyFree": false,
+        "isEggFree": true,
+        "isShellfishFree": true,
+        "isFishFree": true,
+        "isLowSugar": true,
+        "isLowSodium": true,
+        "isSeedFree": true,
+        "isCornFree": true,
+        "isLowHistamine": true,
+        "isLowFat": true
+      },
+      "images": [
+        { "url": "/images/recipes/riz-legumes-tofu.jpg", "type": "main" }
+      ],
+      "equipment": ["Casserole", "Poêle", "Couteau", "Planche à découper"],
+      "calcServings": 1,
+      "ingredients": [
+        {
+          "title": "Ingrédients principaux",
+          "items": [
+            { "id": 1, "name": "Riz basmati", "quantity": 80, "unit": "g" },
+            { "id": 2, "name": "Tofu ferme", "quantity": 100, "unit": "g" },
+            { "id": 3, "name": "Brocoli", "quantity": 100, "unit": "g" },
+            { "id": 4, "name": "Carottes", "quantity": 80, "unit": "g" },
+            { "id": 5, "name": "Oignon", "quantity": 50, "unit": "g" }
+          ]
+        },
+        {
+          "title": "Assaisonnement",
+          "items": [
+            {
+              "id": 6,
+              "name": "Sauce soja",
+              "quantity": 1,
+              "unit": "c. à soupe"
+            },
+            {
+              "id": 7,
+              "name": "Huile de sésame",
+              "quantity": 1,
+              "unit": "c. à café"
+            },
+            { "id": 8, "name": "Ail", "quantity": 1, "unit": "gousse(s)" },
+            { "id": 9, "name": "Sel", "quantity": 1, "unit": "pincée(s)" },
+            { "id": 10, "name": "Poivre", "quantity": 1, "unit": "pincée(s)" }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "title": "Cuisson du riz",
+          "description": "Faites cuire le riz dans une casserole d'eau bouillante salée selon les instructions du paquet. Égouttez et réservez."
+        },
+        {
+          "step": 2,
+          "title": "Préparation des légumes",
+          "description": "Coupez le brocoli en petits bouquets, les carottes en fines lamelles et l'oignon en tranches."
+        },
+        {
+          "step": 3,
+          "title": "Cuisson du tofu",
+          "description": "Faites chauffer l'huile de sésame dans une poêle. Ajoutez le tofu coupé en dés et faites-le dorer de tous les côtés. Retirez et réservez."
+        },
+        {
+          "step": 4,
+          "title": "Cuisson des légumes",
+          "description": "Dans la même poêle, faites revenir l'ail et l'oignon. Ajoutez les carottes et le brocoli. Faites sauter pendant 5 à 7 minutes jusqu'à ce que les légumes soient tendres mais croquants."
+        },
+        {
+          "step": 5,
+          "title": "Assemblage",
+          "description": "Ajoutez le riz cuit et le tofu aux légumes dans la poêle. Versez la sauce soja et mélangez bien. Laissez cuire 2 à 3 minutes supplémentaires pour bien mélanger les saveurs."
+        },
+        {
+          "step": 6,
+          "title": "Servir",
+          "description": "Servez chaud et garnissez de graines de sésame, si désiré."
+        }
+      ],
+      "alt": "Un plat de riz sauté aux légumes et tofu, parfait pour un repas équilibré.",
+      "recipeHealthScore": {
+        "categories": {
+          "Condiments": true,
+          "Oilseeds": false,
+          "WholeFoods": true,
+          "Vegetables": true,
+          "LowGlycemicIndex": true,
+          "LowSugar": true,
+          "CompleteProtein": true,
+          "Omega3": false,
+          "LowFat": true,
+          "LowSodium": true,
+          "LowHistamine": true,
+          "Legumes": true,
+          "WholeGrains": true
+        },
+        "description": "Un repas équilibré et riche en nutriments, parfait pour un déjeuner ou un dîner sain.",
+        "link": ""
+      },
+      "nutrition": {
+        "per_100g": {
+          "energy": "120 kcal",
+          "protein": "6 g",
+          "fat": "3 g",
+          "fiber": "2 g",
+          "carbohydrates": "18 g",
+          "saturated_fat": "0.5 g",
+          "sugar": "1 g",
+          "salt": "0.3 g"
+        },
+        "per_portion": {
+          "energy": "380 kcal",
+          "protein": "19 g",
+          "fat": "10 g",
+          "fiber": "6 g",
+          "carbohydrates": "58 g",
+          "saturated_fat": "1.5 g",
+          "sugar": "3 g",
+          "salt": "0.8 g"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "slug": "soupe-lentilles-epices",
+      "name": "Soupe de Lentilles Épicée",
+      "category": [
+        "Végétalien",
+        "Équilibré",
+        "Riche en fibres",
+        "Riche en protéines"
+      ],
+      "description": "Une soupe réconfortante et savoureuse, idéale pour les journées fraîches.",
+      "creatorId": null,
+      "difficulty": "facile",
+      "cost": {
+        "label": ["Bon marché"],
+        "currency": "EUR"
+      },
+      "time": {
+        "prep": 10,
+        "cook": 30,
+        "prepTimeCategory": ["Moyen"]
+      },
+      "calories": 320,
+      "mealPlans": ["Bien-être", "Performance"],
+      "tags": {
+        "dietCompatibility": [],
+        "allergens": [],
+        "seasonalTags": ["Hiver", "Automne"]
+      },
+      "restrictions": {
+        "isVegetarian": true,
+        "isVegan": true,
+        "isLactoseFree": true,
+        "isGlutenFree": true,
+        "isNutFree": true,
+        "isPeanutFree": true,
+        "isSoyFree": true,
+        "isEggFree": true,
+        "isShellfishFree": true,
+        "isFishFree": true,
+        "isLowSugar": true,
+        "isLowSodium": true,
+        "isSeedFree": true,
+        "isCornFree": true,
+        "isLowHistamine": false,
+        "isLowFat": true
+      },
+      "images": [
+        { "url": "/images/recipes/soupe-lentilles.jpg", "type": "main" }
+      ],
+      "equipment": [
+        "Marmite",
+        "Mixeur plongeant",
+        "Couteau",
+        "Planche à découper"
+      ],
+      "calcServings": 1,
+      "ingredients": [
+        {
+          "title": "Ingrédients principaux",
+          "items": [
+            {
+              "id": 1,
+              "name": "Lentilles corail",
+              "quantity": 100,
+              "unit": "g"
+            },
+            { "id": 2, "name": "Carottes", "quantity": 100, "unit": "g" },
+            { "id": 3, "name": "Oignon", "quantity": 50, "unit": "g" },
+            {
+              "id": 4,
+              "name": "Tomates concassées",
+              "quantity": 150,
+              "unit": "g"
+            },
+            {
+              "id": 5,
+              "name": "Bouillon de légumes",
+              "quantity": 500,
+              "unit": "ml"
+            }
+          ]
+        },
+        {
+          "title": "Assaisonnement",
+          "items": [
+            { "id": 6, "name": "Ail", "quantity": 1, "unit": "gousse(s)" },
+            {
+              "id": 7,
+              "name": "Cumin moulu",
+              "quantity": 1,
+              "unit": "c. à café"
+            },
+            { "id": 8, "name": "Curcuma", "quantity": 1, "unit": "c. à café" },
+            {
+              "id": 9,
+              "name": "Paprika",
+              "quantity": 0.5,
+              "unit": "c. à café"
+            },
+            { "id": 10, "name": "Sel", "quantity": 1, "unit": "pincée(s)" },
+            { "id": 11, "name": "Poivre", "quantity": 1, "unit": "pincée(s)" }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "title": "Préparation des légumes",
+          "description": "Épluchez et coupez les carottes et l'oignon en petits morceaux. Écrasez l'ail."
+        },
+        {
+          "step": 2,
+          "title": "Cuisson des lentilles",
+          "description": "Rincez les lentilles corail sous l'eau froide pour enlever l'excès d'amidon."
+        },
+        {
+          "step": 3,
+          "title": "Cuisson de la soupe",
+          "description": "Dans une marmite, faites revenir l'oignon et l'ail avec un peu d'huile. Ajoutez les carottes, les lentilles, les tomates concassées et le bouillon de légumes. Portez à ébullition, puis réduisez le feu et laissez mijoter 25 minutes."
+        },
+        {
+          "step": 4,
+          "title": "Mixage",
+          "description": "Une fois les légumes tendres, mixez la soupe à l'aide d'un mixeur plongeant jusqu'à obtenir une texture lisse. Ajustez la consistance avec un peu d'eau si nécessaire."
+        },
+        {
+          "step": 5,
+          "title": "Assaisonnement",
+          "description": "Ajoutez le cumin, le curcuma, le paprika, le sel et le poivre. Mélangez bien et laissez cuire 5 minutes supplémentaires."
+        },
+        {
+          "step": 6,
+          "title": "Servir",
+          "description": "Servez chaud, garni de feuilles de coriandre ou d'un filet de jus de citron si désiré."
+        }
+      ],
+      "alt": "Une soupe chaude et onctueuse aux lentilles et épices, parfaite pour un repas léger.",
+      "recipeHealthScore": {
+        "categories": {
+          "Condiments": true,
+          "Oilseeds": false,
+          "WholeFoods": true,
+          "Vegetables": true,
+          "LowGlycemicIndex": true,
+          "LowSugar": true,
+          "CompleteProtein": false,
+          "Omega3": false,
+          "LowFat": true,
+          "LowSodium": true,
+          "LowHistamine": false,
+          "Legumes": true,
+          "WholeGrains": false
+        },
+        "description": "Une soupe riche en fibres et en nutriments, parfaite pour un repas sain et réconfortant.",
+        "link": ""
+      },
+      "nutrition": {
+        "per_100g": {
+          "energy": "80 kcal",
+          "protein": "4 g",
+          "fat": "1 g",
+          "fiber": "2 g",
+          "carbohydrates": "12 g",
+          "saturated_fat": "0.2 g",
+          "sugar": "1 g",
+          "salt": "0.3 g"
+        },
+        "per_portion": {
+          "energy": "320 kcal",
+          "protein": "16 g",
+          "fat": "4 g",
+          "fiber": "8 g",
+          "carbohydrates": "48 g",
+          "saturated_fat": "0.8 g",
+          "sugar": "4 g",
+          "salt": "1 g"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "slug": "gratin-dauphinois",
+      "name": "Gratin Dauphinois",
+      "category": ["Végétarien", "Classique", "Réconfortant"],
+      "description": "Un plat traditionnel français à base de pommes de terre et de crème, parfait pour accompagner vos repas.",
+      "creatorId": null,
+      "difficulty": "facile",
+      "cost": {
+        "label": ["Moyen"],
+        "currency": "EUR"
+      },
+      "time": {
+        "prep": 15,
+        "cook": 45,
+        "prepTimeCategory": ["Long"]
+      },
+      "calories": 450,
+      "mealPlans": ["Bien-être"],
+      "tags": {
+        "dietCompatibility": [],
+        "allergens": ["Lait"],
+        "seasonalTags": ["Toute l'année"]
+      },
+      "restrictions": {
+        "isVegetarian": true,
+        "isVegan": false,
+        "isLactoseFree": false,
+        "isGlutenFree": true,
+        "isNutFree": true,
+        "isPeanutFree": true,
+        "isSoyFree": true,
+        "isEggFree": true,
+        "isShellfishFree": true,
+        "isFishFree": true,
+        "isLowSugar": true,
+        "isLowSodium": false,
+        "isSeedFree": true,
+        "isCornFree": true,
+        "isLowHistamine": true,
+        "isLowFat": false
+      },
+      "images": [
+        { "url": "/images/recipes/gratin-dauphinois.jpg", "type": "main" }
+      ],
+      "equipment": ["Couteau", "Planche à découper", "Plat à gratin", "Four"],
+      "calcServings": 1,
+      "ingredients": [
+        {
+          "title": "Ingrédients principaux",
+          "items": [
+            {
+              "id": 1,
+              "name": "Pommes de terre",
+              "quantity": 300,
+              "unit": "g"
+            },
+            { "id": 2, "name": "Crème fraîche", "quantity": 100, "unit": "ml" },
+            { "id": 3, "name": "Lait entier", "quantity": 100, "unit": "ml" },
+            { "id": 4, "name": "Ail", "quantity": 1, "unit": "gousse(s)" },
+            { "id": 5, "name": "Beurre", "quantity": 10, "unit": "g" }
+          ]
+        },
+        {
+          "title": "Assaisonnement",
+          "items": [
+            { "id": 6, "name": "Sel", "quantity": 1, "unit": "pincée(s)" },
+            { "id": 7, "name": "Poivre", "quantity": 1, "unit": "pincée(s)" },
+            { "id": 8, "name": "Muscade", "quantity": 0.5, "unit": "c. à café" }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "title": "Préparation des pommes de terre",
+          "description": "Épluchez les pommes de terre et coupez-les en fines rondelles. Rincez-les et séchez-les bien."
+        },
+        {
+          "step": 2,
+          "title": "Préparation de la crème",
+          "description": "Dans un bol, mélangez la crème fraîche, le lait, le sel, le poivre et une pincée de muscade."
+        },
+        {
+          "step": 3,
+          "title": "Préparation du plat",
+          "description": "Frottez l'intérieur d'un plat à gratin avec une gousse d'ail coupée en deux, puis beurrez le plat."
+        },
+        {
+          "step": 4,
+          "title": "Assemblage",
+          "description": "Disposez les rondelles de pommes de terre en couches dans le plat à gratin. Versez le mélange de crème et de lait par-dessus pour couvrir les pommes de terre."
+        },
+        {
+          "step": 5,
+          "title": "Cuisson",
+          "description": "Préchauffez le four à 180 °C. Enfournez le gratin pendant 45 minutes ou jusqu'à ce que le dessus soit doré et que les pommes de terre soient tendres."
+        },
+        {
+          "step": 6,
+          "title": "Servir",
+          "description": "Servez chaud, en accompagnement ou comme plat principal avec une salade verte."
+        }
+      ],
+      "alt": "Un gratin dauphinois doré et crémeux, idéal pour un repas chaleureux.",
+      "recipeHealthScore": {
+        "categories": {
+          "Condiments": true,
+          "Oilseeds": false,
+          "WholeFoods": true,
+          "Vegetables": true,
+          "LowGlycemicIndex": true,
+          "LowSugar": true,
+          "CompleteProtein": false,
+          "Omega3": false,
+          "LowFat": false,
+          "LowSodium": false,
+          "LowHistamine": true,
+          "Legumes": false,
+          "WholeGrains": false
+        },
+        "description": "Un plat réconfortant et équilibré, parfait pour accompagner vos repas.",
+        "link": ""
+      },
+      "nutrition": {
+        "per_100g": {
+          "energy": "140 kcal",
+          "protein": "3 g",
+          "fat": "8 g",
+          "fiber": "1 g",
+          "carbohydrates": "15 g",
+          "saturated_fat": "5 g",
+          "sugar": "2 g",
+          "salt": "0.3 g"
+        },
+        "per_portion": {
+          "energy": "450 kcal",
+          "protein": "9 g",
+          "fat": "25 g",
+          "fiber": "3 g",
+          "carbohydrates": "45 g",
+          "saturated_fat": "15 g",
+          "sugar": "6 g",
+          "salt": "1 g"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "slug": "salade-grecque",
+      "name": "Salade Grecque",
+      "category": ["Végétarien", "Équilibré", "Rafraîchissant"],
+      "description": "Une salade méditerranéenne classique avec des légumes frais et du fromage feta.",
+      "creatorId": null,
+      "difficulty": "facile",
+      "cost": {
+        "label": ["Bon marché"],
+        "currency": "EUR"
+      },
+      "time": {
+        "prep": 10,
+        "cook": 0,
+        "prepTimeCategory": ["Court"]
+      },
+      "calories": 250,
+      "mealPlans": ["Bien-être"],
+      "tags": {
+        "dietCompatibility": [],
+        "allergens": ["Lait"],
+        "seasonalTags": ["Été", "Printemps"]
+      },
+      "restrictions": {
+        "isVegetarian": true,
+        "isVegan": false,
+        "isLactoseFree": false,
+        "isGlutenFree": true,
+        "isNutFree": true,
+        "isPeanutFree": true,
+        "isSoyFree": true,
+        "isEggFree": true,
+        "isShellfishFree": true,
+        "isFishFree": true,
+        "isLowSugar": true,
+        "isLowSodium": true,
+        "isSeedFree": true,
+        "isCornFree": true,
+        "isLowHistamine": false,
+        "isLowFat": true
+      },
+      "images": [
+        { "url": "/images/recipes/salade-grecque.jpg", "type": "main" }
+      ],
+      "equipment": ["Bol", "Couteau", "Planche à découper"],
+      "calcServings": 1,
+      "ingredients": [
+        {
+          "title": "Ingrédients principaux",
+          "items": [
+            { "id": 1, "name": "Concombre", "quantity": 100, "unit": "g" },
+            { "id": 2, "name": "Tomates", "quantity": 100, "unit": "g" },
+            { "id": 3, "name": "Poivron vert", "quantity": 50, "unit": "g" },
+            { "id": 4, "name": "Oignon rouge", "quantity": 30, "unit": "g" },
+            { "id": 5, "name": "Fromage feta", "quantity": 50, "unit": "g" },
+            { "id": 6, "name": "Olives noires", "quantity": 30, "unit": "g" }
+          ]
+        },
+        {
+          "title": "Assaisonnement",
+          "items": [
+            {
+              "id": 7,
+              "name": "Huile d'olive",
+              "quantity": 1,
+              "unit": "c. à soupe"
+            },
+            {
+              "id": 8,
+              "name": "Jus de citron",
+              "quantity": 0.5,
+              "unit": "c. à soupe"
+            },
+            {
+              "id": 9,
+              "name": "Origan séché",
+              "quantity": 1,
+              "unit": "c. à café"
+            },
+            { "id": 10, "name": "Sel", "quantity": 1, "unit": "pincée(s)" },
+            { "id": 11, "name": "Poivre", "quantity": 1, "unit": "pincée(s)" }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "step": 1,
+          "title": "Préparation des légumes",
+          "description": "Lavez et coupez le concombre, les tomates et le poivron en morceaux. Coupez l'oignon rouge en fines tranches."
+        },
+        {
+          "step": 2,
+          "title": "Assemblage",
+          "description": "Dans un bol, mélangez les légumes coupés avec les olives noires."
+        },
+        {
+          "step": 3,
+          "title": "Ajout de la feta",
+          "description": "Ajoutez le fromage feta émietté ou coupé en cubes par-dessus les légumes."
+        },
+        {
+          "step": 4,
+          "title": "Assaisonnement",
+          "description": "Arrosez la salade avec l'huile d'olive et le jus de citron. Assaisonnez avec l'origan, le sel et le poivre."
+        },
+        {
+          "step": 5,
+          "title": "Servir",
+          "description": "Servez frais, en entrée ou en accompagnement."
+        }
+      ],
+      "alt": "Une salade grecque colorée avec légumes frais, feta et olives.",
+      "recipeHealthScore": {
+        "categories": {
+          "Condiments": true,
+          "Oilseeds": false,
+          "WholeFoods": true,
+          "Vegetables": true,
+          "LowGlycemicIndex": true,
+          "LowSugar": true,
+          "CompleteProtein": false,
+          "Omega3": false,
+          "LowFat": true,
+          "LowSodium": true,
+          "LowHistamine": false,
+          "Legumes": false,
+          "WholeGrains": false
+        },
+        "description": "Une salade légère et équilibrée, riche en légumes et en saveurs méditerranéennes.",
+        "link": ""
+      },
+      "nutrition": {
+        "per_100g": {
+          "energy": "90 kcal",
+          "protein": "3 g",
+          "fat": "7 g",
+          "fiber": "2 g",
+          "carbohydrates": "4 g",
+          "saturated_fat": "2 g",
+          "sugar": "2 g",
+          "salt": "0.3 g"
+        },
+        "per_portion": {
+          "energy": "250 kcal",
+          "protein": "8 g",
+          "fat": "20 g",
+          "fiber": "5 g",
+          "carbohydrates": "10 g",
+          "saturated_fat": "5 g",
+          "sugar": "5 g",
+          "salt": "0.8 g"
+        }
+      }
     }
   ]
 }
